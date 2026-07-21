@@ -1,21 +1,18 @@
-![Header](./github-header-image.png)
+<img src="./dune-header.svg" alt="Dune themed animated header" width="100%">
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   hello, i'm odílio carneiro and i'm a IT technician student at IFCE campus Fortaleza<br>
 </p>
-
 <p align="left">
   🐧 Languages: python, javascript, java and swift
 </p>
-
 <p align="left">
 </p>
-
 <p align="left">
   🦥 Call me! : ⤵️
 </p>
-
   <p align="left">
   <a href="mailto:odiliocarneiro@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
